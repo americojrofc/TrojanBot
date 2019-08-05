@@ -24,4 +24,3 @@ while True:
 
     s.send(resposta)
 
-nome = input('Digite seu nome: ')
